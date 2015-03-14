@@ -1,1 +1,1 @@
-Test readme
+Test readme fajla za cijeli folder
